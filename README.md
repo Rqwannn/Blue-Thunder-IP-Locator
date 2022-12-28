@@ -17,7 +17,7 @@ $ apt-get upgrade libjson-perl
 - cd Blue-Thunder-IP-Locator
 - chmod += blue_thunder.pl
 - perl blue_thunder.pl
-- perl blue_thunder.pl <ip target>
+- perl blue_thunder.pl (ip target)
 
 # More
 💀 Watch More Tools & Videos Here: https://goo.gl/GSLWmp
