@@ -13,7 +13,7 @@ $ apt-get upgrade libjson-perl
 - cd Dekstop
 - git clone https://github.com/Rqwannn/Blue-Thunder-IP-Locator.git
 - cd Blue-Thunder-IP-Locator
-- chmod += blue_thunder.pl
+- chmod +x blue_thunder.pl
 - perl blue_thunder.pl
 - perl blue_thunder.pl (ip target)
 
